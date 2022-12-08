@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Singh</h1>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 📫 How to reach me **www.ishu1808@gmail.com**
+- 📫 How to reach me **ishita1808i@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
